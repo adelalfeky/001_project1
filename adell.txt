@@ -1,0 +1,32 @@
+test
+cat /etc/os-release     to know the linx version
+git --version
+sudo su -           Super user 
+apr-get update     to updatethe lap
+mkdir  test
+ls             list the director content
+ls -ltr        detailed
+ls -ltrs        detailed
+ls -ltra        detailed
+date
+cd test         browes the folder
+pwd             wher iam
+touch 1.txt   or vi.txt      creat file
+
+ESC button . then  write  (:wq)   save and quite 
+cat 1.txt     to see the containt of the file 
+ls -ltra    list more details
+rm -rf .git/     remove git directory
+git status 
+git add 1.txt   move from working to staging  from red to green  to be traked 
+
+git commit 1.txt  move from staging to 
+git commit -m "test message"
+
+
+ git add 2.txt
+ git commit 3.txt -m "first commit"
+ git branch demo
+ git checkout Test    to create new branch
+ cat 5.txt   read the file 
+ 
